@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class while18{
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int a, b, lcm;
+
+        System.out.print("Enter two numbers: ");
+        a = sc.nextInt();
+        b = sc.nextInt();
+
+        int max = (a > b) ? a : b;
+        lcm = max;
+
+        while (true) {
+            if (lcm % a == 0 && lcm % b == 0) {
+                break;
+            }
+            lcm++;
+        }
+
+        System.out.println("LCM of " + a + " and " + b + " = " + lcm);
+    }
+}
