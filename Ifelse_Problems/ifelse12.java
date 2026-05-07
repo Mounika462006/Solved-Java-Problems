@@ -44,7 +44,7 @@ public class ifelse12 {
             ageFactor = 1.1;
        }
 
-       System.out.printf("Age Factor: %.1fx\n",ageFactor);
+       System.out.printf("Age Factor:  %.1fx\n",ageFactor);
 
        double riskFactor = 0.0;
 
@@ -97,7 +97,7 @@ public class ifelse12 {
             riskCategory = "Very High";
         }
 
-        System.out.println("Risk Category: "+ riskCategory);
+        System.out.println("Risk Category:  "+ riskCategory);
 
     }   
 }
