@@ -34,7 +34,7 @@ public class array3 {
         double range = max - min;
         System.out.printf("Temperature Range: %.2f C\n",range);
         
-        double avrg = sum / n ;
+        double  avrg = sum / n ;
         System.out.printf("Average Temperature: %.2f C\n" , avrg);
     }
 }
