@@ -84,7 +84,7 @@ public class for12 {
             if(hourParked> 8){
                 count++;
             }
-            System.out.println();
+           System.out.println();
 
         }
         System.out.println("Total Vehicles: "+ n);
