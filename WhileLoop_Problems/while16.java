@@ -15,7 +15,6 @@ public class BinaryToDecimal {
             power++;
             binary = binary / 10; 
         }
-
         System.out.println("Binary: " + original);
         System.out.println("Decimal: " + decimal);
     }
