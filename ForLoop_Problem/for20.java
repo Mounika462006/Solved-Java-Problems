@@ -42,8 +42,7 @@ public class for20 {
             System.out.println();
         }
 
-        double netBalance = totalDeposits - (totalWithdrawals + totalTransfers + totalPayments);
-
+        double netBalance = totalDeposits - (totalWithdrawals + totalTransfers + totalPayments);
         System.out.println("Total Transactions: " + n);
         System.out.println("Total Deposits: $" + totalDeposits);
         System.out.println("Total Withdrawals: $" + totalWithdrawals);
