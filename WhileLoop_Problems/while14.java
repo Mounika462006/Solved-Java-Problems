@@ -14,7 +14,6 @@ class Main {
             temp = temp / 10;
             count++;
         }
-
         temp = num;
         while (temp != 0) {
             int digit = temp % 10;
