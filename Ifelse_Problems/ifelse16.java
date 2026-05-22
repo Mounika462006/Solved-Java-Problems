@@ -7,8 +7,7 @@ public class ifelse16 {
         String season = sc.nextLine();
         int nightsBooked = sc.nextInt();
         sc.nextLine();
-        String loyaltyTier = sc.nextLine();
-
+        String loyaltyTier = sc.nextLine();
         System.out.println("Room Category: " + roomCategory);
         System.out.println("Season: " + season);
         System.out.println("Nights Booked: " + nightsBooked);
