@@ -26,7 +26,7 @@ public class ifelse6 {
                 a=500;
             }
             else if(routeType.equalsIgnoreCase("International-Long")){
-                a=800;
+               a=800;
             }
         }
         else if(bookingClass.equalsIgnoreCase("Business")){
