@@ -8,8 +8,7 @@ public class ifelse11 {
         String loyalStatus = sc.nextLine();
         double orderValue = sc.nextDouble();
         sc.nextLine();
-        String timeSlot = sc.nextLine();
-
+        String timeSlot = sc.nextLine();
 
         System.out.println("Order Type: " + orderType);
         System.out.println("Loyalty Status: " + loyalStatus);
