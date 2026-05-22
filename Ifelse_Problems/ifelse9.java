@@ -12,8 +12,7 @@ public class ifelse9 {
         System.out.printf("Annual Revenue:$%.1f\n",anuualRevenue);
         System.out.println("Business Type: " + businessType);
         System.out.printf("Deductible Expenses: $%.1f\n",deductiableExpense);
-        System.out.printf("Tax Credits:$ %.1f\n",tax);
-
+        System.out.printf("Tax Credits:$ %.1f\n",tax);
         double taxable = anuualRevenue - deductiableExpense;
         System.out.printf("Taxable Income:$ %.1f\n",taxable);
 
