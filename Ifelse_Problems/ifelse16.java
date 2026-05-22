@@ -11,8 +11,7 @@ public class ifelse16 {
         System.out.println("Room Category: " + roomCategory);
         System.out.println("Season: " + season);
         System.out.println("Nights Booked: " + nightsBooked);
-        System.out.println("Loyalty Tier: " + loyaltyTier);
-
+        System.out.println("Loyalty Tier: " + loyaltyTier);
         double baseRate = 0.0;
         if(roomCategory.equalsIgnoreCase("Standard")){
             baseRate = 150;
