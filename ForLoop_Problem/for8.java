@@ -18,7 +18,7 @@ public class for8 {
             System.out.println("Product: " + proName);
             System.out.printf("Unit Price: $%.1f\n" ,price);
             System.out.println("Quantity: " + quantity);
-
+  
             if(quantity ==1){
                 dis =0;
             }
