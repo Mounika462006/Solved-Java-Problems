@@ -17,7 +17,7 @@ public class for19 {
             System.out.println("Product ID: " + prodID);
             System.out.println("Type: " + prodType);
             System.out.println("Months Used: "+ purchase);
-  
+     
             int warranty =0;
 
             if(prodType.equalsIgnoreCase("Electonics")){
