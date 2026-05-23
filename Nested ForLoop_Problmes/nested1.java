@@ -9,7 +9,7 @@ public class nested1{
         for(int i=1; i<=row ;i++){
             System.out.print("Row " + i + ": ");
             for(int j=1;j<=col;j++){
-                
+               
                 System.out.print(" Seat -" + j);
             }
             System.out.println("\n");
