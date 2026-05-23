@@ -13,7 +13,7 @@ public class for19 {
             String prodID = sc.next();
             String  prodType = sc.next();
             int purchase = sc.nextInt();
-
+  
             System.out.println("Product ID: " + prodID);
             System.out.println("Type: " + prodType);
             System.out.println("Months Used: "+ purchase);
