@@ -19,7 +19,7 @@ public class for16 {
             System.out.println("Student: " + studname);
             System.out.println("Correct: " + corAns);
             System.out.println("Wrong: " + wrongAns);
-            System.out.println("Unattempeted: " + unattemp);
+            System.out.println("Unattempeted: " + unattemp);   
 
             int score = (corAns * 4 ) - (wrongAns * 3 ) + ( unattemp * 0);
             System.out.println("Score: " + score);
