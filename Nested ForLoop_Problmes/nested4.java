@@ -16,8 +16,7 @@ public class nested4 {
             for (int j = 0; j < subjects; j++) {
                 marks[i][j] = sc.nextInt();
             }
-        }
-
+        }
         System.out.println("Grade Sheet:");
 
         System.out.print("Student ");
