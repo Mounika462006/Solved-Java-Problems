@@ -15,7 +15,7 @@ public class for6 {
         for(int i=1;i<=n;i++){
             double withdraw = sc.nextDouble();
             System.out.println("Transaction "+ i+": $ " +withdraw);
-
+  
             if(withdraw<= initialBal){
                 str = "Approved";
                 System.out.println("Status: "+ str);
