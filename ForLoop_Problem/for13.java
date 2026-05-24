@@ -12,7 +12,7 @@ public class for13 {
             double weight = sc.nextDouble();
             double hemoglobin = sc.nextDouble();
 
-            System.out.println("Donor: " + donorName);    
+            System.out.println("Donor: " + donorName);     
             System.out.println("Age: " + age);
             System.out.println("Weight: "+ weight+" kg");
             System.out.println("Hemoglobin: " + hemoglobin + "g/dL");
