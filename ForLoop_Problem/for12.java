@@ -21,7 +21,7 @@ public class for12 {
                 hoursRte = 3;
            
             }
-            else if(vechType.equalsIgnoreCase("Motorcycle")){
+          else if(vechType.equalsIgnoreCase("Motorcycle")){
                 hoursRte = 2;
             }
             else if(vechType.equalsIgnoreCase("Truck")){
