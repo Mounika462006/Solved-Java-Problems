@@ -15,7 +15,7 @@ public class for14 {
             int daysLate = sc.nextInt();
 
             System.out.println("Book " + i + " : " + bookType);
-            System.out.println("Days Late: " + daysLate);
+            System.out.println("Days Late: " + daysLate);  
 
             if(bookType.equalsIgnoreCase("Regular")){
                 dayFine = 0.50;
