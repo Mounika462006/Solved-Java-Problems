@@ -50,7 +50,7 @@ public class for7 {
         System.out.println("Total Consumers: " + n);
         System.out.println("Units Consumed: " + sum);
         System.out.printf("Total Revenue: $%.1f\n",add);
-        
+          
         double avrg = add / n;
         System.out.printf("Average Bill: $%.1f\n",avrg);
     }
