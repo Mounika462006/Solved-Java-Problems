@@ -16,7 +16,7 @@ public class for12 {
 
             System.out.println("Vehicle " + i + " : "  + vechType);
             System.out.println("Hours Parked: " + hourParked);
-
+   
             if(vechType.equalsIgnoreCase("Car")){
                 hoursRte = 3;
                 
