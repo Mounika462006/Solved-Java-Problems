@@ -15,7 +15,7 @@ public class for13 {
             System.out.println("Donor: " + donorName);     
             System.out.println("Age: " + age);
             System.out.println("Weight: "+ weight+" kg");
-            System.out.println("Hemoglobin: " + hemoglobin + "g/dL");
+            System.out.println("Hemoglobin: " + hemoglobin + "g/dL");   
 
             if((age >=18 && age <=65) && (weight >=50) && (hemoglobin>=12.5)){
                 System.out.println("Status: Eligible");
