@@ -7,8 +7,7 @@ public class for19 {
         int  n = sc.nextInt();
         int Expired=0;
         int soon =0;
-        int active =0;
-
+        int active =0;
         for(int i=1;i<=n;i++){
             String prodID = sc.next();
             String  prodType = sc.next();
