@@ -16,7 +16,7 @@ public class for7 {
             sum = sum+ unitConusumed;
 
             System.out.println("Consumer ID: " + conusumerID);
-            System.out.println("Units Consumed: " + unitConusumed);
+            System.out.println("Units Consumed: " + unitConusumed);   
  
             if(unitConusumed>=0 && unitConusumed<=100){
                 billAmunt = unitConusumed * 0.10;
