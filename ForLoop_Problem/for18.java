@@ -9,8 +9,7 @@ public class for18 {
 
         double totalTemp = 0;
         double maxTemp = -1000;
-        double minTemp = 1000;
-
+        double minTemp = 1000;
         int maxHour = 0;
         int minHour = 0;
 
