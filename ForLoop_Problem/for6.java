@@ -23,7 +23,6 @@ public class for6 {
                 System.out.printf("Remaining Balance: $%.1f\n",initialBal);
             }
 
-
             else{
                 str ="Denied";
                 System.out.println("Status: "+ str);
