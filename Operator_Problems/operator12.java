@@ -8,4 +8,4 @@ public class operator12 {
         int size = file >> compression;
         System.out.println("Copressed Size = "+ size);
     }
-}
+} 
