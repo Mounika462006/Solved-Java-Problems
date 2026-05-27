@@ -16,7 +16,7 @@ public class for20 {
 
             String type = sc.next();
             double amount = sc.nextDouble();
-
+ 
             String category = "";
 
             if (type.equalsIgnoreCase("Deposit")) {
