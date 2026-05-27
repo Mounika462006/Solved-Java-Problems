@@ -18,7 +18,7 @@ public class for4 {
 
             String repName = sc.next();
             double salesAmount = sc.nextDouble();
-
+ 
             System.out.println("Sales Rep: " + repName);
             System.out.printf("Sales Amount: $%.1f\n", salesAmount);
 
