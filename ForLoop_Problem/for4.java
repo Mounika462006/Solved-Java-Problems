@@ -13,7 +13,7 @@ public class for4 {
 
         double highestSales = 0;
         String topPerformer = "";
-
+ 
         for (int i = 1; i <= n; i++) {
 
             String repName = sc.next();
