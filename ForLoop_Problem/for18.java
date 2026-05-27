@@ -16,7 +16,7 @@ public class for18 {
         int hotHours = 0;
         int coldHours = 0;
 
-        for(int i = 1; i <= n; i++){
+        for(int i = 1; i <= n; i++){ 
 
             int hour = sc.nextInt();
             double temperature = sc.nextDouble();
