@@ -16,7 +16,7 @@ public class for9 {
 
 
             System.out.println("Session "+ i +": " + workout);
-            System.out.println("Duration: " + min+" minutes");
+            System.out.println("Duration: " + min+" minutes"); 
 
             if(workout.equalsIgnoreCase("Running")){
                 burned = 10 * min;
