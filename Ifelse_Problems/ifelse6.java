@@ -10,7 +10,7 @@ public class ifelse6 {
         String routeType = sc.nextLine();
 
         double a =0;
-        double mul=0.0;
+        double mul=0.0;    
         String str = "";
 
         System.out.println("Booking Class: " + bookingClass);
