@@ -15,7 +15,7 @@ public class ifelse11 {
         System.out.printf("Order Value: $ %.1f\n",orderValue);
         System.out.println("Time Slot: " + timeSlot);      
     
-        int baseDis = 0;
+        int baseDis = 0; 
 
         if(loyalStatus.equalsIgnoreCase("Gold")){
             baseDis = 15;
