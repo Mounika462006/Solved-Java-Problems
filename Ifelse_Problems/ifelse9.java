@@ -7,7 +7,7 @@ public class ifelse9 {
         sc.nextLine();
         String businessType = sc.nextLine();
         double deductiableExpense = sc.nextDouble();
-        double tax = sc.nextDouble();
+        double tax = sc.nextDouble();     
         int taxRate =0;
         System.out.printf("Annual Revenue:$%.1f\n",anuualRevenue);
         System.out.println("Business Type: " + businessType);
