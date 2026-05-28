@@ -16,7 +16,7 @@ public class ifelse3 {
         System.out.println("Smoking Status: "+smokingstaus);
         System.out.println("Pre-existing: "+preExistingCondition);
         System.out.println("Coverage Tier: "+ coverageTier);
-
+    
         if( coverageTier.equalsIgnoreCase("Basic")){
             if((age>=18 && age<=30)){
                 a=200;
