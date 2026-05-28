@@ -16,7 +16,7 @@ public class ifelse6 {
         System.out.println("Booking Class: " + bookingClass);
         System.out.println("Days Until Departure: " + daysUnitDep);
         System.out.printf("Seat Availability: %.1f%%\n",seatAvailable);
-        System.out.println("Route Type: " + routeType);
+        System.out.println("Route Type: " + routeType);     
 
         if(bookingClass.equalsIgnoreCase("Economy")){
             if(routeType.equalsIgnoreCase("Domestic")){
