@@ -13,7 +13,7 @@ public class ifelse11 {
         System.out.println("Order Type: " + orderType);
         System.out.println("Loyalty Status: " + loyalStatus);
         System.out.printf("Order Value: $ %.1f\n",orderValue);
-        System.out.println("Time Slot: " + timeSlot);
+        System.out.println("Time Slot: " + timeSlot);      
 
         int baseDis = 0;
 
