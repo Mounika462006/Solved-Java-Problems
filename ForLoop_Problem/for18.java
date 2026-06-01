@@ -20,7 +20,7 @@ public class for18 {
 
             int hour = sc.nextInt();
             double temperature = sc.nextDouble();
-
+ 
             totalTemp += temperature;
 
             System.out.println("Hour " + hour + ": " + temperature + "°C");
