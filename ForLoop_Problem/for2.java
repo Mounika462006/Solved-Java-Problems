@@ -14,7 +14,7 @@ public class for2 {
             String studName = sc.next();
             int score = sc.nextInt();
 
-            System.out.println("Student: "+studName);    
+            System.out.println("Student:  "+studName);    
             System.out.println("Score: " + score);
 
             if(score >=85 && score<=100){
