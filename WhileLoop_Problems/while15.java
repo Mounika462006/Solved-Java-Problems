@@ -27,3 +27,4 @@ public class while15 {
         System.out.println("Steps: " + steps);
     }
 }
+
