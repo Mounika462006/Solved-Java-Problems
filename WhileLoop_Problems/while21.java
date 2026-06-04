@@ -15,3 +15,4 @@ public class while21 {
         }while(i<=10);
     }
 }
+  
