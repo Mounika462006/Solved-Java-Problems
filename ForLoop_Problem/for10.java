@@ -5,7 +5,7 @@ public class for10 {
 
         Scanner sc = new Scanner(System.in);
 
-        int n = sc.nextInt();
+        int n = sc.nextInt();   
         double subtotal = 0.0;
         int value = 0;
 
