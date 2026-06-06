@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ifelse15 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int userCount = sc.nextInt();
+        int userCount = sc.nextInt();   
         sc.nextLine();
         String licenseType = sc.nextLine();
         String supportLevel = sc.nextLine();
