@@ -10,7 +10,7 @@ public class for15 {
         for(int i=1;i<=n;i++){
             double distanceKM = sc.nextDouble();
             String timeofday = sc.next();
-
+                         
             totalDistance = totalDistance + distanceKM;
 
             System.out.println("Ride: " + i);
