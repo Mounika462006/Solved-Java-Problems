@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class for13 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);                   
         int n = sc.nextInt();
         int sum=0;
         int rej =0;
