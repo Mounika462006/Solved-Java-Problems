@@ -10,7 +10,7 @@ public class nested2 {
         for(int i=1;i<=col;i++){
            System.out.print( i +  " ");
         }
-        System.out.println();
+        System.out.println();                         
 
         for(int i=1;i<=row;i++){
             
