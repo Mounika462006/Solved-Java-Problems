@@ -8,7 +8,7 @@ public class ifelse15 {
         String licenseType = sc.nextLine();
         String supportLevel = sc.nextLine();
         int contractYear = sc.nextInt();
-
+                
         System.out.println("User Count: " + userCount);
         System.out.println("License Type: " + licenseType);
         System.out.println("Support Level: " + supportLevel);
