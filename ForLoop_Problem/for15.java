@@ -11,7 +11,7 @@ public class for15 {
             double distanceKM = sc.nextDouble();
             String timeofday = sc.next();
                          
-            totalDistance = totalDistance + distanceKM;
+            totalDistance = totalDistance + distanceKM;           
 
             System.out.println("Ride: " + i);
             System.out.println("Distance: " + distanceKM + "km");
