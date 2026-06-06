@@ -8,7 +8,7 @@ public class for13 {
         int rej =0;
         for(int i=1;i<=n;i++){
             String donorName = sc.next();
-            int age = sc.nextInt();
+            int age = sc.nextInt();          
             double weight = sc.nextDouble();
             double hemoglobin = sc.nextDouble();
 
