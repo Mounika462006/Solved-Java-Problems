@@ -6,7 +6,7 @@ public class Basic11 {
         int distance = sc.nextInt();
         int rate = sc.nextInt();
         int maintance = sc.nextInt();
-        int allowance = sc.nextInt();
+        int allowance = sc.nextInt();     
         int subsidy = sc.nextInt();
 
         int transport = (distance * rate ) + maintance + allowance - subsidy;
