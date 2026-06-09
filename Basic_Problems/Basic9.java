@@ -5,7 +5,7 @@ public class Basic9 {
         Scanner sc = new Scanner(System.in);
 
         int room= sc.nextInt();
-        int days =sc.nextInt();
+        int days =sc.nextInt();      
         int medicine = sc.nextInt();
         int lab=sc.nextInt();
         int insurance = sc.nextInt();
