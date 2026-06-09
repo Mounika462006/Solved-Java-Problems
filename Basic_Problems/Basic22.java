@@ -5,7 +5,7 @@ public class Basic22 {
         Scanner sc = new Scanner(System.in);
         int copies = sc.nextInt();
         int cost = sc.nextInt();
-        int editing = sc.nextInt();
+        int editing = sc.nextInt();    
         int design = sc.nextInt();
         int commission = sc.nextInt();
         int marketing = sc.nextInt();
