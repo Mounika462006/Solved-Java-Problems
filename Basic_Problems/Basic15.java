@@ -5,7 +5,7 @@ public class Basic15 {
         Scanner sc = new Scanner(System.in);
         int room = sc.nextInt();
         int price = sc.nextInt();
-        int service = sc.nextInt();
+        int service = sc.nextInt();    
         int commission = sc.nextInt();
         int revenue = ( room * price ) + service - commission;
         System.out.println("Total Revenue = " + revenue);
