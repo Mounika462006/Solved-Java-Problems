@@ -8,7 +8,7 @@ public class Basic5 {
         double service = sc.nextDouble();
         double gst = sc.nextDouble();
         double people = sc.nextDouble();     
-
+     
         double orgService=bill*service/100;    
         double orgGst= bill*gst/100;
         double last = bill+orgGst+orgService;
