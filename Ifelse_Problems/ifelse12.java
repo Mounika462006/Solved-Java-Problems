@@ -95,7 +95,7 @@ public class ifelse12 {
             riskCategory = "High";
         } else {
             riskCategory = "Very High";
-        }
+        }                                               
 
         System.out.println("Risk Category:  "+ riskCategory);
 
