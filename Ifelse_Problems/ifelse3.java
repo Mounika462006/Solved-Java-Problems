@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ifelse3 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        int age =sc.nextInt();
+        int age =sc.nextInt();                                                                                   
         sc.nextLine();
         String smokingstaus = sc.nextLine();
         String preExistingCondition = sc.nextLine();
