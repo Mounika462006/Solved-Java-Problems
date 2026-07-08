@@ -7,7 +7,7 @@ public class ifelse8 {
         int squareFootage = sc.nextInt();
         int propertyAge = sc.nextInt();
         int amenityScore = sc.nextInt();
-
+                                                                   
         double base = 0.0;                                                                      
         int age =0;
         double bonus = 0.0;
