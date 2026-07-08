@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ifelse12 {                                 
+public class ifelse12 {                                      
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int age = sc.nextInt();
@@ -8,7 +8,7 @@ public class ifelse12 {
         String vecType = sc.nextLine();
         String drivingRecond = sc.nextLine();
         String coverageLevel = sc.nextLine();
-
+ 
         System.out.println("Driver Age : " + age);
         System.out.println("Vechicle Type: " + vecType);
         System.out.println("Driving Record: " + drivingRecond);
@@ -76,7 +76,6 @@ public class ifelse12 {
        }
 
        System.out.printf("Record Adjustment: %d%%\n",recodrdAdjust);
-
 
        double AdjustmentPremium = basePremium * ageFactor * riskFactor ;
        double finalPremium = AdjustmentPremium * (1 +recodrdAdjust/100.0);
