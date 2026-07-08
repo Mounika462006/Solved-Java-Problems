@@ -7,7 +7,7 @@ public class ifelse3 {
         sc.nextLine();
         String smokingstaus = sc.nextLine();
         String preExistingCondition = sc.nextLine();
-        String coverageTier = sc.nextLine();
+        String coverageTier = sc.nextLine();                                  
         double a=0;
         double surcharge =0;
         double total=0;
