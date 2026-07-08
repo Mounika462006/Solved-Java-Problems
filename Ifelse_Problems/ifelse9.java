@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ifelse9 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);                                                 
         double anuualRevenue = sc.nextDouble();
         sc.nextLine();
         String businessType = sc.nextLine();
@@ -12,7 +12,8 @@ public class ifelse9 {
         System.out.printf("Annual Revenue:$%.1f\n",anuualRevenue);
         System.out.println("Business Type: " + businessType);
         System.out.printf("Deductible Expenses: $%.1f\n",deductiableExpense);
-        System.out.printf("Tax Credits:$ %.1f\n",tax);
+        System.out.printf("Tax Credits:$ %.1f\n",tax);
+
         double taxable = anuualRevenue - deductiableExpense;
         System.out.printf("Taxable Income:$ %.1f\n",taxable);
 
