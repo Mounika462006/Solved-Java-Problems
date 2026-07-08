@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ifelse10 {
     public static void main(String[] args) {
-        Scanner sc= new Scanner(System.in);
+        Scanner sc= new Scanner(System.in);                                                              
         String timeofDay = sc.nextLine();
         double powerConsumption =sc.nextDouble();
         double renewablePercent = sc.nextDouble();
