@@ -5,7 +5,7 @@ public class ifelse20 {
         Scanner sc = new Scanner(System.in);
 
         int storageGB =  sc.nextInt();
-        int userCount = sc.nextInt();
+        int userCount = sc.nextInt();                                                                    
         sc.nextLine();
         String backupFrequency = sc.nextLine();
         String supportTier = sc.nextLine();
