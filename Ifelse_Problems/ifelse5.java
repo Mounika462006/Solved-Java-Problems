@@ -6,7 +6,7 @@ public class ifelse5 {
 
         double a=0;
         String str=" ";
-
+                                                                             
         double gpa =sc.nextDouble();
         double familyIncome = sc.nextDouble();
         int extraCuricular = sc.nextInt();
