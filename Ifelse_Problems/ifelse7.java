@@ -5,8 +5,7 @@ public class ifelse7 {
         Scanner sc= new Scanner(System.in);
         int heartRate = sc.nextInt();
         sc.nextLine();
-
-
+        
         String bloodPressure = sc.nextLine();
         String[] bp = bloodPressure.split("/");
         int systolic = Integer.parseInt(bp[0]);
