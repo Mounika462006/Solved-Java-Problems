@@ -14,3 +14,4 @@ public class dowhile3{
         System.out.println("Total: " + sum);
     }
 }
+    
