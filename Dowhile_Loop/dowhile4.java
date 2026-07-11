@@ -8,15 +8,15 @@ public class dowhile4 {
         long rev = phone;
         do{
             rev = rev / 10;
-            count++;
+            count++;    
         }while(rev>0);
         if(count==10){
             System.out.println("Valid");
         }
-        else{
+        else{ 
             System.out.println("Invalid");
         }
     }
-}
+} 
 
 
