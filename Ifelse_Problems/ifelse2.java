@@ -12,7 +12,7 @@ public class ifelse2 {
         System.out.println("Credit Score:" + creditScore);
         System.out.println("Annual Income: $" + annualIncome);
         System.out.printf("Debt-to-Income Ratio: %.1f%%", debtToIncomeRation);
-        System.out.println("\nLoan Type: "+loanType);
+        System.out.println("\nLoan Type: "+loanType);      
 
         if(loanType.equalsIgnoreCase("Home")){
             if(creditScore>=750 && debtToIncomeRation<=30){
