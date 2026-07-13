@@ -13,7 +13,7 @@ public class ifelse19 {
         System.out.println("Show Time: " + showTime);
         System.out.println("Seat Category: " + seatCategory);
         System.out.println("Cusomer Type: " + customerType);
-        System.out.println("Base ticket price: $12.0");
+        System.out.println("Base ticket price: $12.0");     
 
         double formatSurcharge = 0.0;
         if(movieFormat.equalsIgnoreCase("2D")){
