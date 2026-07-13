@@ -16,9 +16,9 @@ public class ifelse14 {
 
         double basemonthlyTier = 0.0;
 
-        if(membershipTier.equalsIgnoreCase("Basic")){
+        if(membershipTier.equalsIgnoreCase("Basic")){ 
             basemonthlyTier = 40;
-        }
+        } 
         else if(membershipTier.equalsIgnoreCase("Premium")){
             basemonthlyTier =80;
         }
