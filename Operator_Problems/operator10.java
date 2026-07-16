@@ -8,7 +8,7 @@ public class operator10 {
         if(unitConsumed>500 || voltage==1){
             System.out.println("Alert Triggered");
         }else{
-            System.out.println("Noraml Usage");
+            System.out.println("Noraml Usage");               
         }
     }
 }
