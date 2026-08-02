@@ -9,7 +9,7 @@ public class for11 {
         int discount =0;
         double finalTotal=0.0;
         double orgTotal =0.0;
-        double finalprice =0.0;
+        double finalprice =0.0; 
         double a =0.0;
 
         for(int i=1;i<=n;i++){
