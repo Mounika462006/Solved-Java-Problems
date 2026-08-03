@@ -4,7 +4,7 @@ public class Main{
         Scanner sc = new Scanner(System.in);
         long n = sc.nextLong();
         long count =0;
-        
+
         while(n>0){
             long temp = n%10;
             count++;
