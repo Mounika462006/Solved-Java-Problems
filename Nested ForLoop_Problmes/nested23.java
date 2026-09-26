@@ -19,7 +19,7 @@ public class Main{
                 for(int l = i; l >= 1; l--) {
                     System.out.print(l);
                 }
-            }
+            } 
 
             System.out.print("\n");
         }
