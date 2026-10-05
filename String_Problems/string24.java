@@ -4,22 +4,25 @@ public class Main{
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
         int maxcount = 0;
-        char maxVal = s.charAt(0);
+        char maxval = s.charAt(0);
         for(int i=0; i<s.length(); i++){
-             if (s.charAt(i) == ' ') {
-                 continue;
+            if(s.charAt(i) ==' '){
+                continue;
             }
+
             int count=0;
             for(int j=0; j<s.length(); j++){
-                if(s.charAt(i) == s.charAt(j)){
+                if(Character.toLowerCase(s.charAt(i)) == Character.toLowerCase(s.charAt(j))){
                     count++;
                 }
             }
             if(count>maxcount){
                 maxcount = count;
-                maxVal = s.charAt(i);
+                maxval = Character.toLowerCase(s.charAt(i));
             }
         }
-        System.out.print(maxVal +":"+maxcount);
+        System.out.print(maxval+":"+maxcount);
+
+       
     }
 }
