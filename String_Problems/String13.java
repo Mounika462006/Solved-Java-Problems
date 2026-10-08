@@ -8,6 +8,6 @@ public class Main{
         Scanner sc = new Scanner(System.in);
         String s1 = sc.nextLine();
         stringCopy(s1);
-
+ 
     }
 }
