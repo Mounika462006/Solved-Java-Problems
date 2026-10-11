@@ -12,4 +12,4 @@ public class operator2 {
             System.out.println("Transaction Declined");
         }
     }
-}
+}
