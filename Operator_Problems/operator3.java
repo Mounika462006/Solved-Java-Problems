@@ -7,7 +7,7 @@ public class operator3 {
         int attendance = sc.nextInt();
         if(workingHours>=40 && attendance >=90){
             System.out.println("Bonus Eligible");
-        }else{
+        }else{ 
             System.out.println("Bonus Not Eligible");
         }
     }
