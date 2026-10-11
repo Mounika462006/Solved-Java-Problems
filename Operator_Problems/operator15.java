@@ -9,3 +9,4 @@ public class operator15 {
         System.out.println("Toggled Signal = " + val);
     }
 }
+ 
