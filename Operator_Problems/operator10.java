@@ -11,4 +11,4 @@ public class operator10 {
             System.out.println("Noraml Usage");               
         }
     }
-}
+}
