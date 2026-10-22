@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class operator10 {
-    public static void main(String[] args) {
+    public static void main(String[] args) {               
         Scanner sc = new Scanner(System.in);
         int unitConsumed = sc.nextInt();
         int voltage = sc.nextInt();
@@ -11,4 +11,4 @@ public class operator10 {
             System.out.println("Noraml Usage");               
         }
     }
-}
+}
