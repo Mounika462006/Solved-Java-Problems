@@ -4,7 +4,7 @@
           Scanner sc = new Scanner(System.in);
           long n = sc.nextLong();
           long pos = sc.nextLong();
-          int index=0;
+          int index=0;                     
         
           long[] arr = new long[(int)n];
           for(long i =1;i<=n;i++){
